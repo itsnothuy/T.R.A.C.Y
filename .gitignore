@@ -1,1 +1,3 @@
 .env.env
+voice_ai_env/
+model_last.pt
