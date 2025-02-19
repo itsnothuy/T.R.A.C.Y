@@ -47,8 +47,6 @@ def speak_text_cli(
     return fixed_output_file
 
 
-
-
 # import torch
 # import torchaudio
 # import os
